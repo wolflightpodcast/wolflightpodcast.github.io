@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wolflightpodcast
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wolflightpodcast.github.io
+  * I am wolflightpodcast (https://keybase.io/wolflightpodcast) on keybase.
+  * I have a public key ASBx2h42FcFMGZKiAy-4a2sLWXcpXs-K-ybnSY7LIYDOsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012017b757df4f5263cb4ab9070c7f35cae2235b84f49cda174a6869d0c72d87180e0a",
+      "host": "keybase.io",
+      "kid": "012071da1e3615c14c1992a2032fb86b6b0b5977295ecf8afb26e7498ecb2180ceb10a",
+      "uid": "8fbb1d1c8b8d09f0643a7bfe46f0b219",
+      "username": "wolflightpodcast"
+    },
+    "merkle_root": {
+      "ctime": 1517966897,
+      "hash": "661f043e125b5aab0df75639614f2ed4f757223c061c1201776d15fb2b4d6bf133fb77597b8e547702a85a834ac9a9a86fc2cd9d79bf314a1b2fbbe6b743a4b4",
+      "hash_meta": "a5ca69950a22228d60ed66ff25144ca27b03e8192cfbdc4386c06126db0c60b8",
+      "seqno": 2044338
+    },
+    "service": {
+      "hostname": "wolflightpodcast.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1517967075,
+  "expire_in": 504576000,
+  "prev": "53476ad42c9391c6488ddc719e8033e1d92337664dece51c60a67e67871e9c3f",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcdoeNhXBTBmSogMvuGtrC1l3KV7Pivsm50mOyyGAzrEKp3BheWxvYWTFA1p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTdiNzU3ZGY0ZjUyNjNjYjRhYjkwNzBjN2YzNWNhZTIyMzViODRmNDljZGExNzRhNjg2OWQwYzcyZDg3MTgwZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzFkYTFlMzYxNWMxNGMxOTkyYTIwMzJmYjg2YjZiMGI1OTc3Mjk1ZWNmOGFmYjI2ZTc0OThlY2IyMTgwY2ViMTBhIiwidWlkIjoiOGZiYjFkMWM4YjhkMDlmMDY0M2E3YmZlNDZmMGIyMTkiLCJ1c2VybmFtZSI6IndvbGZsaWdodHBvZGNhc3QifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTc5NjY4OTcsImhhc2giOiI2NjFmMDQzZTEyNWI1YWFiMGRmNzU2Mzk2MTRmMmVkNGY3NTcyMjNjMDYxYzEyMDE3NzZkMTVmYjJiNGQ2YmYxMzNmYjc3NTk3YjhlNTQ3NzAyYTg1YTgzNGFjOWE5YTg2ZmMyY2Q5ZDc5YmYzMTRhMWIyZmJiZTZiNzQzYTRiNCIsImhhc2hfbWV0YSI6ImE1Y2E2OTk1MGEyMjIyOGQ2MGVkNjZmZjI1MTQ0Y2EyN2IwM2U4MTkyY2ZiZGM0Mzg2YzA2MTI2ZGIwYzYwYjgiLCJzZXFubyI6MjA0NDMzOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3b2xmbGlnaHRwb2RjYXN0LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE3OTY3MDc1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjUzNDc2YWQ0MmM5MzkxYzY0ODhkZGM3MTllODAzM2UxZDkyMzM3NjY0ZGVjZTUxYzYwYTY3ZTY3ODcxZTljM2YiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDKEgghIN+6qdEoWY8MoPNW5lWbMjZHvS97Xcsc7TJXt3hdLvBj5gNVIhr8+xx6QmbwR6dnJZDqqzlnYjuLpG4DqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgXzCiA+1fZyvSISMV9ifyqb+AJXGQ2gK6PcTlyIyNg/6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wolflightpodcast
+
+==================================================================
+
