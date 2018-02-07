@@ -27,7 +27,7 @@ Pero se mantendrá más o menos en este espectro:
 
 ### Contáctanos
 Si te interesa que platiquemos de algún tema en específico o quieres colaborar con alguna idea, haz un ping:  
-Disclaimer: Nos encanta [Telegram](https://telegram.org), pero por ahora lo mantendremos en medios que no requieran número de teléfono. Sin embargo, puedes unirte a nuestro canal (ahí)[https://t.me/wolflightpodcast].  
+Disclaimer: Nos encanta [Telegram](https://telegram.org), pero por ahora lo mantendremos en medios que no requieran número de teléfono. Sin embargo, puedes unirte a nuestro canal [ahí](https://t.me/wolflightpodcast).  
 
 
 * [Wire - @wolflightpodcast](https://app.wire.com)    <font size="1"><i>recommendado</i></font>  
@@ -35,9 +35,9 @@ Disclaimer: Nos encanta [Telegram](https://telegram.org), pero por ahora lo mant
 * [Keybase - wolflightpodcast](https://keybase.io/wolflightpodcast) 
 	Bájalo acá: https://keybase.io/download   
 * [wolflightpodcast@protonmail.com](mailto:wolflightpodcast@protonmail.com)  
-* [Twitter - @wolflightradio], no nos encantan sus DMS, pero si pudieras usar la extensión de Keybase estaría incre.  
+* [Twitter - @wolflightradio](https://twitter.com/wolflightradio), no nos encantan sus DMS, pero si pudieras usar la [extensión de Keybase](https://keybase.io/docs/extension) estaría incre.  
 
-Nuestras llaves PGP (acá)[https://keybase.io/wolflightpodcast/pgp_keys.asc], o si quieres copiarla desde acá:  
+Nuestras llaves PGP [acá](https://keybase.io/wolflightpodcast/pgp_keys.asc), o si quieres copiarla desde este sitio:  
 
 Fingerprint (64-bit): `9666 42F8 42F8 E7CF`
 {% highlight bash %}
