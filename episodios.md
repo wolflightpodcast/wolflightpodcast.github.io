@@ -9,6 +9,6 @@ Puedes escucharnos acá:
 
 | Episodio | Link | Acerca de|  
 |---|---|---|  
-| E0 - TestFlight (6 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/Wolflight-E01---TestFlight-e12c33) | [Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
-| E1 - ¿Crypto monedas de qué? (16 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/E1-1-Crypto-monedas-de-qu-e12o27) |[Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
-| E2 - Mapas y no-tuiters (24 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/Wolflight-E2---Mapas-y-no-tuiters-e13gtl) |[Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
+| E0 - TestFlight (6 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/Wolflight-E01---TestFlight-e12c33) * | [Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
+| E1 - ¿Crypto monedas de qué? (16 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/E1-1-Crypto-monedas-de-qu-e12o27) * |[Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
+| E2 - Mapas y no-tuiters (24 FEB 18)|   [Anchor](https://anchor.fm/wolflightpodcast/episodes/Wolflight-E2---Mapas-y-no-tuiters-e13gtl) * |[Hablamos de](./_posts/2018-2-6-E01-TestFlight.md) |  
