@@ -3,8 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+## ¿Dónde?  
 
+Puedes escucharnos acá:  
+| [Anchor](https://anchor.fm/wolflightpodcast) | [iTunes](https://d12xoj7p9moygp.cloudfront.net/images/podcast/apple-podcasts-3.png) | [Play Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iu4tadjpbygpinsi4rcpybkfvne?t%3DWolflight%26p) | [Pocket Casts](http://pca.st/4p2e) | [Stitcher](http://stitcher.com/s?fid=169556&refid=stpr) | [RadioPublic](https://play.radiopublic.com/wolflight-WonJMO)|  
+|---|---|---|---|---|---|  
 
+## ¿Quiénes somos? 
 
 Somos un grupo de entusiastas de la tecnología, la ciencia y cosas random, así que todo en el podcast es offtopic. El horario de transmisión será semanal, los viernes a las 9 PM MEX, a partir del 16 de Febrero del 2018.  
 
