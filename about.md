@@ -45,6 +45,7 @@ Disclaimer: Nos encanta [Telegram](https://telegram.org), pero por ahora lo mant
 * [Keybase - wolflightpodcast](https://keybase.io/wolflightpodcast) 
 	Bájalo acá: https://keybase.io/download   
 * [wolflightpodcast@protonmail.com](mailto:wolflightpodcast@protonmail.com)  
+* [Mastodon - @wolflightpodcast](https://mastodon.social/@wolflightpodcast)  
 * [Twitter - @wolflightradio](https://twitter.com/wolflightradio), no nos encantan sus DMS, pero si pudieras usar la [extensión de Keybase](https://keybase.io/docs/extension) estaría incre.  
 
 Nuestras llaves PGP [acá](https://keybase.io/wolflightpodcast/pgp_keys.asc), o si quieres copiarla desde este sitio:  
