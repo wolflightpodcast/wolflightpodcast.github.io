@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## ¿Dónde?  
-<img src="https://github.com/wolflightpodcast/wolflightpodcast.github.io/blob/master/images/assets/qrCodesWolflight/wfqr.png" width="20%">
+![](./images/assets/qrCodesWolflight/wfqr.png)
  
 
 Puedes escucharnos acá:  
