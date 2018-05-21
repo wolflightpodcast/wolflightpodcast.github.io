@@ -18,6 +18,6 @@ Hablamos de estrés, apps de mapas, microblogging y cosas random.
  * ángel de la independencia: cáscara.saltan.darán
  * Torre de pisa: ///frenos.bebes.agitar
  * Coliseo: ///ilustra.torres.estilos
- * Estación Atocha, Madrid España: ///atraer.sobresueldo.buenos
+ * Estación Atocha, Madrid España: ///atraer.sobresueldo.buenos  
 [4] [Mastodon](https://mastodon.social/@wolflightpodcast)  
 
