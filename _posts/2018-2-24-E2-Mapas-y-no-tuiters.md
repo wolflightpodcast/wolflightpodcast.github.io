@@ -1,6 +1,7 @@
 ---
 layout: post
 title: E2 Mapas y no tuiters
+tags: [microblogging,no federado,privacidad, estrés]
 ---
 
 ## Hablamos de  

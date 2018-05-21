@@ -1,6 +1,7 @@
 ---
 layout: post
 title: E01 TestFlight
+tags: [test, inspiration]
 ---
 
 
