@@ -1,18 +1,24 @@
 ---
 layout: post
-title: E1.1 ¿Crypto monedas de qué?
+title: E2 Mapas y no tuiters
 ---
-
 
 ## Hablamos de  
 
-Hablamos de lo que nos inspiró a crear Wolflight Podcast, minado de crypto monedas en páginas de contenido y cosas random.  
+Hablamos de estrés, apps de mapas, microblogging y cosas random.    
 
 
-<iframe src="https://anchor.fm/wolflightpodcast/embed/episodes/E1-1-Crypto-monedas-de-qu-e12o27/a-a2dd7v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>  
+<iframe src="https://anchor.fm/wolflightpodcast/embed/episodes/Wolflight-E2---Mapas-y-no-tuiters-e13gtl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>  
+  
 
 ## Show Notes
 
-[1] Grupo de Telegram [acá](https://t.me/wolflightchat)  
-  
+[1] Kelly Mcgonigall (Ted Talk)[link](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)  
+[2] [Bridgefy](https://www.bridgefy.me/)  
+[3] [What3words](https://what3words.com/es/)   
+ * ángel de la independencia: cáscara.saltan.darán
+ * Torre de pisa: ///frenos.bebes.agitar
+ * Coliseo: ///ilustra.torres.estilos
+ * Estación Atocha, Madrid España: ///atraer.sobresueldo.buenos
+[4] [Mastodon](https://mastodon.social/@wolflightpodcast)  
 
