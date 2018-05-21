@@ -4,7 +4,6 @@ title: E2 Mapas y no tuiters
 ---
 
 ## Hablamos de  
-
 Hablamos de estrés, apps de mapas, microblogging y cosas random.    
 
 
