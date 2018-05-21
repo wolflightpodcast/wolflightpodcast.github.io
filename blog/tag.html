@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Tag
 ---
-<link rel="shortcut icon" type="image/png" href="./images/wl-icon.png"/>
 {% comment%}
 Here we generate all the tags.
 {% endcomment%}
@@ -28,23 +28,37 @@ Here we generate all the tags.
 {% endunless %}
 {% endif %}
 {% endfor %}
-Tags
+
+<h1 class="page-title">
+  <a href="/blog">Blog</a> | {{ page.title }}
+</h1>
+<br/>
+
+<div class="posts">
+<p>
 {% for tag in tags %}
 <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a> &nbsp;&nbsp;
 {% endfor %}
 
-<div class="posts">
-  {% for post in site.posts%}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <h3>{{post.date | date: "%B %e, %Y"}}</h3>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+{% for tag in tags %}
+<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+<ul class="codinfox-category-list">
+  {% for post in site.posts %}
+  {% if post.tags contains tag %}
+  <li>
+    <h3>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+        <small>{{ post.date | date_to_string }}</small>
+      </a>
+      {% for tag in post.tags %}
+      <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+      {% endfor %}
+    </h3>
+  </li>
+  {% endif %}
   {% endfor %}
+</ul>
+{% endfor %}
+
 </div>
