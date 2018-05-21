@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 <link rel="shortcut icon" type="image/png" href="./images/wl-icon.png"/>
+
+
+
 ## ¿Dónde?  
-![](./images/assets/qrCodesWolflight/wfqr.png)  
+<iframe src="https://anchor.fm/wolflightpodcast/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>  
 
    
 Puedes escucharnos acá:  
