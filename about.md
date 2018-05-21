@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<link rel="shortcut icon" type="image/png" href="./images/wl-icon.png"/>
 ## ¿Dónde?  
 ![](./images/assets/qrCodesWolflight/wfqr.png)  
 
